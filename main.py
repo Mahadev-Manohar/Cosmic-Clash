@@ -12,7 +12,7 @@ SPACESHIP_WIDTH,SPACESHIP_HEIGHT = 55,40
 HEALTH_FONT_SIZE = 40
 WINNER_FONT_SIZE = 100
 WIN = pygame.display.set_mode((WIDTH,HEIGHT))
-pygame.display.set_caption('Space Hunter')
+pygame.display.set_caption('Cosmic Clash')
 
 WHITE=(255,255,255)
 SPACE_COLOUR=(96,20,155)
