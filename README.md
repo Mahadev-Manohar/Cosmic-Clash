@@ -3,6 +3,7 @@ Cosmic Clash
 Cosmic Clash is a 2D space shooter game where two players battle it out in a thrilling space combat. The objective is to defeat your opponent by shooting bullets and reducing their health to zero. The game features simple controls for both players and provides a fun, fast-paced multiplayer experience.
 
 Features:
+
 Two-player gameplay: Control one of two spaceships and compete against your friend.
 Space Shooter: Shoot bullets to defeat the opposing spaceship.
 Health Bar: Each player has a health bar that decreases when hit by bullets.
